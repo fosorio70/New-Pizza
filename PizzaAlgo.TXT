@@ -1,0 +1,7 @@
+
+1. Find Pizza online stores
+2. show Menu
+3. give topping choices and prices
+4. select method of payment
+5. choose delivery method
+6. tracking the test
