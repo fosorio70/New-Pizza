@@ -5,3 +5,5 @@
 4. select method of payment
 5. choose delivery method
 6. tracking the test
+7. payment 
+
